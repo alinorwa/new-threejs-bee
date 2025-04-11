@@ -1,0 +1,20 @@
+# Ignore node_modules (dependencies folder)
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Vite log files
+vite.svg
+
+# Optional: if you use VS Code
+.vscode/
